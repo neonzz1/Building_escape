@@ -71,3 +71,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#ProjectContent
+Content/FreeFurniturePack/*
+Content/MedievalDungeon/*
+Content/ModularFantasyHouse/*
+Content/MS_RuHardware/*
+Content/StarterContent/*
+Content/PlantsPack/*
